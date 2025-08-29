@@ -1,0 +1,99 @@
+.App {
+  text-align: center;
+  background: #ff7fbb;
+  margin-top: 5rem;
+  padding: 10rem;
+  border-radius: 1.5rem;
+}
+
+h1 {
+  color: #72dfd4;
+  margin-bottom: 1rem;
+  margin-top: -5rem;
+  font-size: 2.37rem;
+  border-color: #000000;
+}
+
+body {
+  background: #a894da;
+  display:grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.CreateTasks {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.todo-input {
+  background:#b4d1d9;
+  border: 1px solid #5d043b;
+  padding: 1rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: -2rem;
+  width: 300px;
+  color: #8357ce;
+  margin-left: -1rem;
+  font-size: small;
+  font-weight: 700;
+  border-radius: 1rem;
+  border-style:hidden;
+}
+
+.todo-buttn {
+  background: #8969d5;
+  color: #3e034b;
+  border: none;
+  padding: 0.85rem;
+  cursor: pointer;
+  font-size:small;
+  font-style:oblique;
+  margin-top: 2rem;
+  font-weight: 800;
+  border-radius: 1.5rem;
+
+}
+
+.delete-buttn {
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #d54c83;
+}
+
+.edit-buttn {
+  cursor: pointer;
+  color: #033b30;
+  background-color: #89efdb;
+}
+
+.completed-buttn {
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #62b5cc;
+}
+
+.task {
+  color: #85aadf;
+  font-size: 1.25rem;
+  font-weight: 950;
+}
+
+.displayed {
+  color: #b8286e;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
