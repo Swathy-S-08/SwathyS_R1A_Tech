@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SwathyS_R1A_Tech/static/css/main.bc44e1be.css",
+    "main.js": "/SwathyS_R1A_Tech/static/js/main.aa231c7f.js",
+    "static/js/453.4bda0570.chunk.js": "/SwathyS_R1A_Tech/static/js/453.4bda0570.chunk.js",
+    "index.html": "/SwathyS_R1A_Tech/index.html",
+    "main.bc44e1be.css.map": "/SwathyS_R1A_Tech/static/css/main.bc44e1be.css.map",
+    "main.aa231c7f.js.map": "/SwathyS_R1A_Tech/static/js/main.aa231c7f.js.map",
+    "453.4bda0570.chunk.js.map": "/SwathyS_R1A_Tech/static/js/453.4bda0570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc44e1be.css",
+    "static/js/main.aa231c7f.js"
+  ]
+}
